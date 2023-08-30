@@ -1,1 +1,3 @@
 # credit-risk-classification
+
+I completed this assignment completely on my own. I did refer to the code we used in class for module 20. I referenced the "classifying_social_media_influencers_solution" notebook to see how to do logistic regression, the "confusion_matrix_solution" notebook to see how to do the confusion matrix, and the "logistic_regression_solution" for more information on the logistic regression technique.
